@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
+.ovr-text {
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: none;
+    color: #41406E;
+    padding: 20px;
+    padding-left: 80px;
+    padding-right: 90px;
+    position: fixed;
+    width: 270px;
+    top: 150px;
+    left: 40px;
+    transition: 0.3s;
+}
+
+header {
+    font-family: 'Inter', sans-serif;
+}
+
+.ovr-text:hover {
+    background-color: #E7BDD3;
+    width: 270px;
+    color: #41406E;
+    border-radius: 15px;
+}
+
+.att-text {
+    font-weight: bold;
+    font-size: 20px;
+    color: #41406E;
+    text-decoration: none;
+    padding: 20px;
+    padding-left: 80px;
+    padding-right: 70px;
+    position: fixed;
+    width: 270px;
+    top: 230px;
+    left: 40px;
+    transition: 0.3s;
+}
+
+.att-text:hover {
+    background-color: #E7BDD3;
+    color: #41406E;
+    width: 270px;
+    border-radius: 15px;
+}
+
+.lv-text {
+    font-weight: bold;
+    font-size: 20px;
+    color: #41406E;
+    text-decoration: none;
+    padding: 20px;
+    padding-left: 80px;
+    padding-right: 120px;
+    position: fixed;
+    width: 270px;
+    top: 310px;
+    left: 40px;
+    transition: 0.3s;
+}
+
+.lv-text:hover {
+    background-color: #E7BDD3;
+    color: #41406E;
+    width: 270px;
+    border-radius: 15px;
+}
+
+.plane {
+    font-size: 35px;
+    color: #585AB2;
+    position: fixed;
+    top: 315px;
+    left: 60px;
+    z-index: 1;
+}
+
+.user {
+    font-size: 35px;
+    color: #585AB2;
+    position: fixed;
+    top: 238px;
+    left: 60px;
+    z-index: 1;
+}
+
+.square-1 {
+    font-size: 15px;
+    color: #585AB2;
+    position: fixed;
+    top: 165px;
+    left: 65px;
+    z-index: 1;
+}
+
+.square-2 {
+    font-size: 15px;
+    color: #585AB2;
+    position: fixed;
+    top: 180px;
+    left: 65px;
+    z-index: 1;
+}
+
+.square-3 {
+    font-size: 15px;
+    color: #585AB2;
+    position: fixed;
+    top: 165px;
+    left: 80px;
+    z-index: 1;
+}
+
+.square-4 {
+    font-size: 15px;
+    color: #585AB2;
+    position: fixed;
+    top: 180px;
+    left: 80px;
+    z-index: 1;
+}
+
+.cover {
+    width: 100vw;
+    height: 100vh;
+}
+
+.sidebar {
+    width: 250px;
+    height: 100%;
+    background-color: #b3b3b3;
+    position: absolute;
+}
+
+.h3h3 {
+    color: #41406E;
+    font-weight: bold;
+    position: fixed;
+    top: 50px;
+    left: 70px;
+}
